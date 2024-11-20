@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1732009528" />
+    <testcase name="async_fifo_test" classname="async_fifo_tb" file="C:\Users\PC\Desktop\cocotb_test\test_project1\tb\async_fifo_tb.py" lineno="8" time="0.008004188537597656" sim_time_ns="450.001" ratio_time="56220.689690932915" />
+  </testsuite>
+</testsuites>
